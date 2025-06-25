@@ -22,8 +22,6 @@ This repository is provided as a **research artifact** to accompany the thesis. 
 
 *   **`src/`**: Contains the final, refactored Python modules for all key components of the project (data loaders, model architectures, loss functions, etc.). This directory provides the cleanest, most readable view of the code logic described in the thesis.
 *   **`notebooks/`**: Contains the primary Jupyter notebooks used for data generation, training, and evaluation. These notebooks serve as the main, executable record of the research and are the recommended starting point for understanding the end-to-end workflow.
-*   **`pyproject.toml` & `poetry.lock`**: Defines the project dependencies for full reproducibility.
-
 ---
 
 ### 🚀 Getting Started & Reproducing Results
