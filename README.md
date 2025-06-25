@@ -6,7 +6,7 @@ My  Master Thesis project on building a deep intermodal fusion learning network 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 
-This repository contains the source code and experimental artifacts for the Master Thesis by Juliette J V P Maes, submitted to Maastricht University. The research focuses on developing and evaluating a purely content-based recommender system for movies, leveraging visual, audio, and textual modalities to address the cold-start problem.
+This repository contains the source code and experimental artifacts for the Master Thesis by Juliette Maes, submitted to Maastricht University, Department of Advanced Computer Science. The research focuses on developing and evaluating a purely content-based recommender system for movies, leveraging visual, audio, and textual modalities to address the cold-start problem.
 
 ---
 
