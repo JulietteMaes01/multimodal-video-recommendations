@@ -1,5 +1,5 @@
 # multimodal-video-recommendations
-My  Master Thesis project on building a deep intermodal fusion learning network for content-based video recommendations.
+Master Thesis project on building a deep intermodal fusion learning network for content-based video recommendations.
 
 # "Seeing, Hearing, and Reading": A Deep Intermodal Fusion Learning Network for Content-Based Video Recommendations
 
