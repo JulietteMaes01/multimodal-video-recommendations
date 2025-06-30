@@ -12,7 +12,7 @@ This repository contains the source code and experimental artifacts for the Mast
 
 ### 📄 Thesis
 
-The full Master Thesis PDF containing detailed background, methodology, and analysis can be found here: [LINK TO THESIS PDF WHEN AVAILABLE].
+The full Master Thesis PDF containing detailed background, methodology, and analysis can be found here: [LINK TO THESIS PDF WHEN SUBMITTED].
 
 ---
 
@@ -37,7 +37,6 @@ Clone the repository and install the required dependencies using Poetry.
 ```bash
 git clone https://github.com/your-username/multimodal-video-recommendations.git
 cd multimodal-video-recommendations
-poetry install
 ```
 
 **2. Walkthrough using Jupyter Notebooks**
