@@ -12,7 +12,7 @@ This repository contains the source code and experimental artifacts for the Mast
 
 ### 📄 Thesis
 
-The full Master Thesis PDF containing detailed background, methodology, and analysis can be found here: [LINK TO THESIS PDF WHEN SUBMITTED].
+The full Master Thesis PDF containing detailed background, methodology, and analysis can be found here: [[LINK TO THESIS PDF]](https://we.tl/t-GqS5GVLtMU).
 
 ---
 
