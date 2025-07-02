@@ -12,7 +12,7 @@ This repository contains the source code and experimental artifacts for the Mast
 
 ### 📄 Thesis
 
-The full Master Thesis PDF containing detailed background, methodology, and analysis can be found here: [[LINK TO THESIS PDF]](https://we.tl/t-GqS5GVLtMU).
+The full Master Thesis PDF containing detailed background, methodology, and analysis can be found here: [[LINK TO THESIS PDF]][(https://we.tl/t-GqS5GVLtMU)](https://github.com/JulietteMaes01/multimodal-video-recommendations/blob/main/Master_Thesis_Juliette_Maes.pdf).
 
 ---
 
